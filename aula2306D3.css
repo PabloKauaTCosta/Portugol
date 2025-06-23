@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+}
+.secaoUm{
+    background-color: pink;
+    margin: auto;
+    padding: 50px;
+    height: 500px;
+    width: 500px;
+    border-radius: 15px;
+}
